@@ -1,0 +1,52 @@
+﻿Assignment
+
+
+
+
+1. How to create an object in java?
+
+
+There are several ways by which we can create objects of a class in java as we all know a class provides the blueprint for objects, you create an object from a class. This concept is under-rated and sometimes proves to be beneficial as this concept is bypassed by many programmers and sometimes even do ask from interview
+perceptive.
+Methods:
+There are Many Different ways to create objects in Java. the help of programs to illustrate internal working by which we can create objects in Java
+*  Using new keyword
+*  Using new instance
+*  Using clone() method
+*  Using deserialization
+*  Using newInstance() method of Constructor class
+
+
+Let us discuss them one by one and implement the same by appending a clean java program for the same.
+Method 1: Using new keyword :- Using the new keyword in java is the most basic way to create an object. This is the most common way to create an object in java. Almost 99% of objects are created in this way. By using this method we can call any constructor we want to call (no argument or parameterized constructors).
+
+
+2. What is the use of a new keyword in Java?
+
+
+In Java, the new keyword is used to dynamically allocate memory for an object at runtime. When you create a new object using the new keyword, Java allocates memory for the object on the heap, initializes the fields of the object (if any), and returns a reference to the newly created object. This reference can then be used to access the object and its methods.
+
+
+3. What are the different types of variables in Java?
+
+
+*  Static Variable
+*  Instance Variable
+*  Local Variable
+4. What is the difference between Instance variables and Local variables?
+
+
+  
+
+
+
+5. In which area memory is allocated for instance variable and local variable?
+
+
+Instance variables are allocated in the heap and local variables are allocated in the stack.
+
+
+6. What is method overloading?
+
+
+Method overloading in Java is a feature that allows a class to have multiple methods with the same name but different parameters. The Java compiler distinguishes these methods by the number, type, and order of parameters. Overloading is used to provide multiple ways to call a method for different use cases, makingcode more readable and reusable.
